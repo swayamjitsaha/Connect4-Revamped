@@ -19,7 +19,7 @@ Step 6: Main game loop: Continue taking turns until a player wins or the board i
 Step 7: End the game: Display the result (win, draw), and ask if the players want to play again.
 
 <p align="center">
-  <img width="40%" src="instance1.jpg">
+  <img width="40%" src="Designer.png">
  </p>
  
 # References
